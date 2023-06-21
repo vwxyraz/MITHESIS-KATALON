@@ -45,6 +45,7 @@ WebUI.click(buttonSignIn)
 sleep(5)
 if (!WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Beranda  myITS Thesis/p_SelamatDatang'), 0)) {
 	WebUI.navigateToUrl("https://dev-thesis.its.ac.id/")
+	WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Beranda  myITS Thesis/p_SelamatDatang'))
 }
 //else {
 //	WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Beranda  myITS Thesis/p_SelamatDatang'), 0)
