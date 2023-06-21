@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>tolakDaftarSidangTA</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>b48171a4-b153-473a-a9e8-ab644f532064</testSuiteGuid>
+   <testCaseLink>
+      <guid>173fb3e8-e28e-44c4-8c7f-2f2f68e732f2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Mahasiswa/sidang/daftarSidang</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a0fd7684-c638-42ae-90e9-830a3a3081f9</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>7</value>
+         </iterationEntity>
+         <testDataId>Data Files/testData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>a0fd7684-c638-42ae-90e9-830a3a3081f9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>9f432b37-7589-468f-976b-b5dd691d4611</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a0fd7684-c638-42ae-90e9-830a3a3081f9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>3f269ec0-99fc-473e-a25a-bbb3c9f736df</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a5df0758-0a1b-423b-a817-b78373567f1f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Dosen/sidang/tolakAjuanSidangTA</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>49d0c715-dcae-4186-a588-8c4127ba745b</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>3-4</value>
+         </iterationEntity>
+         <testDataId>Data Files/testData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>49d0c715-dcae-4186-a588-8c4127ba745b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>592d3799-980f-49da-855f-2df39127efc1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>49d0c715-dcae-4186-a588-8c4127ba745b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>39c3f827-bede-49bc-9c43-109b457c672d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

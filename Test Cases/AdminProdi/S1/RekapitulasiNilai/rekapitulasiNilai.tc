@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>rekapitulasiNilai</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27e0d96f-1e13-40d0-a92c-45a5ef9c315b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5befbc3e-5316-4101-a3a7-53d38affc491</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>086fca6d-79ba-441d-81fe-79a76fd26f74</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'SUDRAJAD'</defaultValue>
+      <description></description>
+      <id>5befbc3e-5316-4101-a3a7-53d38affc491</id>
+      <masked>false</masked>
+      <name>namaSiswa</name>
+   </variable>
+   <variable>
+      <defaultValue>'Genap 2022/2023'</defaultValue>
+      <description></description>
+      <id>086fca6d-79ba-441d-81fe-79a76fd26f74</id>
+      <masked>false</masked>
+      <name>sem</name>
+   </variable>
+</TestCaseEntity>

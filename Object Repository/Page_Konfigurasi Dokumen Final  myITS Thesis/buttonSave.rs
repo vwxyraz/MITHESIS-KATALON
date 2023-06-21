@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonSave</name>
+   <tag></tag>
+   <elementGuidId>12765a20-eedf-4cee-a6d9-41c852b6ebac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;card-form&quot;]/div/form/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>876c2c85-7d51-48da-8585-3a8ceddf7e54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1684209031242</value>
+      <webElementGuid>c2e60fe5-e2b9-4ce6-bbc5-d1969d2b9383</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

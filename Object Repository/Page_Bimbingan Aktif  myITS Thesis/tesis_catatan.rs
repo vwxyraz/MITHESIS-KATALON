@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tesis_catatan</name>
+   <tag></tag>
+   <elementGuidId>8ef39cd5-b1ae-4e53-9bb5-cb03c6dd6049</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pills-tesis&quot;]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>6522a0d4-48bb-4c98-8885-0c854f16d94a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1685805301278</value>
+      <webElementGuid>5602dcdc-cf40-4471-a287-600247ce7163</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

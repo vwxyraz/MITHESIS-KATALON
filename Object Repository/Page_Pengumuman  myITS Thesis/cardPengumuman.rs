@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>cardPengumuman</name>
+   <tag></tag>
+   <elementGuidId>a4028a7e-f2d3-4a32-a29f-3d371b86fff5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div[2]/div/div/div[3]/a/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>2f59f091-e7a6-4830-8f3e-f61ea976d6f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1684231932697</value>
+      <webElementGuid>c408d598-1040-4bae-b8f2-64c4036215da</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

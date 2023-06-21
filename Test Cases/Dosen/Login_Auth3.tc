@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Auth3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>19075079-a4b5-4375-8ca0-84e1102612b5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eb8c0652-5363-437a-8557-cb4e3d775e5b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b94cce6a-8370-4b73-883c-bfde25cc6ef1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'dosen_3'</defaultValue>
+      <description></description>
+      <id>eb8c0652-5363-437a-8557-cb4e3d775e5b</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'fuz6RtZG'</defaultValue>
+      <description></description>
+      <id>b94cce6a-8370-4b73-883c-bfde25cc6ef1</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

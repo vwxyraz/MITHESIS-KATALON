@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tabNonReguler</name>
+   <tag></tag>
+   <elementGuidId>7a131f20-ca23-4cd6-a880-b1e8f3e3e7ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pills-kerjasama-tab&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>4e1032d3-bccd-4ef5-b93c-a782fccbae7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1681359477068</value>
+      <webElementGuid>5633f5f7-6e4e-4194-87ba-d77c98d5ccaa</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

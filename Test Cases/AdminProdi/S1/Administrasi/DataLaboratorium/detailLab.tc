@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>detailLab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca80c446-6de8-4e6a-b5eb-975056125c70</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>354c0f2e-57df-4e83-aa2c-45e786ed9353</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b358a48d-b8cc-4e8d-82dc-89eb48be1111</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Rekayasa Perangkat Lunak'</defaultValue>
+      <description></description>
+      <id>354c0f2e-57df-4e83-aa2c-45e786ed9353</id>
+      <masked>false</masked>
+      <name>labName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Rizky Januar'</defaultValue>
+      <description></description>
+      <id>b358a48d-b8cc-4e8d-82dc-89eb48be1111</id>
+      <masked>false</masked>
+      <name>namaDosen</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>informasi</name>
+   <tag></tag>
+   <elementGuidId>a042d6ef-5538-4810-a7e4-68b7b3051fd1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='formSdmEksternal']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.tx-poppins.tx-medium.tx-15</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>216363c9-e149-4217-bf09-ec8c39fcc45b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tx-poppins tx-medium tx-15</value>
+      <webElementGuid>2cab7a49-491f-4db3-b36c-306e86f738d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Informasi SDM Eksternal Baru</value>
+      <webElementGuid>68554f55-833f-406d-85b5-2870296f2833</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formSdmEksternal&quot;)/p[@class=&quot;tx-poppins tx-medium tx-15&quot;]</value>
+      <webElementGuid>2f28da94-4db0-4aef-a604-20dcbd55f2f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formSdmEksternal']/p</value>
+      <webElementGuid>65399bf0-88a6-4558-b924-46265ef3e396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah SDM Eksternal Baru'])[1]/following::p[1]</value>
+      <webElementGuid>ebea3d0a-2736-42c0-b1fc-48ed814f4ef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengumuman'])[2]/following::p[1]</value>
+      <webElementGuid>8f9275f5-6fdf-45bf-8656-525b67496808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama SDM'])[1]/preceding::p[1]</value>
+      <webElementGuid>1f570936-f119-4edb-87db-3909573429c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gelar Depan'])[1]/preceding::p[1]</value>
+      <webElementGuid>4c88b059-cabc-45db-b3a5-1fd569736827</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Informasi SDM Eksternal Baru']/parent::*</value>
+      <webElementGuid>c332b52c-4263-4573-b33b-7bdc5c706a21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/p</value>
+      <webElementGuid>2259eade-74d4-4eb9-a291-f226357cd9b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Informasi SDM Eksternal Baru' or . = 'Informasi SDM Eksternal Baru')]</value>
+      <webElementGuid>64dfe7c9-4650-466a-b9f3-54cba96a0135</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

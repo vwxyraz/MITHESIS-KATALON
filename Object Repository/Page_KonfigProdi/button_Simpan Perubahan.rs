@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Simpan Perubahan</name>
+   <tag></tag>
+   <elementGuidId>67fa275f-6abf-48d0-8838-172281b04309</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-its-3.tx-poppins.tx-medium</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e01f4b7f-f6c2-4ba1-ae0e-5059c2e55808</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>cb56c337-51bd-48a0-88b6-1e0b830cbdc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-its-3 tx-poppins tx-medium</value>
+      <webElementGuid>8ba2a5a2-ba0d-4d53-82cb-563d83255a93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Simpan Perubahan</value>
+      <webElementGuid>bee7e49c-d2b2-4ecb-8c44-bf8b9a7f6f54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[1]/div[@class=&quot;content ht-100v pd-0&quot;]/div[@class=&quot;content-body mn-ht-100v d-flex flex-column&quot;]/div[@class=&quot;container pd-x-0 mg-t-50&quot;]/div[@class=&quot;row row-xs&quot;]/div[@class=&quot;col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 mg-b-10 mg-md-b-20&quot;]/div[@class=&quot;card bd-0&quot;]/form[1]/div[@class=&quot;card-body card-list&quot;]/button[@class=&quot;btn btn-its-3 tx-poppins tx-medium&quot;]</value>
+      <webElementGuid>4689c5f0-e5e5-4fc7-9934-2ef24e2e7c02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>cc5d4350-f042-4c97-99f1-4c0f72ca22e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2021-2023 Institut Teknologi Sepuluh Nopember'])[1]/preceding::button[1]</value>
+      <webElementGuid>3355fdc5-aea0-4ae0-8666-5a9a71946eda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2021-2023 Institut Teknologi Sepuluh Nopember'])[2]/preceding::button[1]</value>
+      <webElementGuid>f655dc7a-a147-479e-805c-2dc0bf271098</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Simpan Perubahan']/parent::*</value>
+      <webElementGuid>eac17a8f-e45a-4f09-8436-fa81decf050a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/button</value>
+      <webElementGuid>3c9ddf3f-3017-4c6b-974c-eddcbab4ea65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Simpan Perubahan' or . = 'Simpan Perubahan')]</value>
+      <webElementGuid>f5472b35-e0e5-45c4-99a1-23584ed7a4a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tab_tesis</name>
+   <tag></tag>
+   <elementGuidId>fa3891e9-2712-4490-9e5b-ce16ca1dec28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pills-tesis-tab&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>4ad0cf6c-e677-41a0-9890-5999e02abb90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1685805252392</value>
+      <webElementGuid>812199cb-c1a0-4fd9-8e87-1bf602b8615d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

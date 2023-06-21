@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ta_usulanubah</name>
+   <tag></tag>
+   <elementGuidId>3bff3317-188a-4b56-b426-7412a6d36709</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pills-tugas-akhir&quot;]/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>513eda42-640a-490d-b2b8-f726675cf1b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1685805237198</value>
+      <webElementGuid>e7a1e669-b3ca-44b9-9810-95d0e7017105</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

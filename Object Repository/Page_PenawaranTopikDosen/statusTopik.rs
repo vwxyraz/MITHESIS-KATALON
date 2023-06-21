@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>statusTopik</name>
+   <tag></tag>
+   <elementGuidId>fa52cb48-6481-47f9-b3c4-35226ef9af86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div[2]/div[2]/div/div[2]/div[1]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>e00eab20-c659-4dea-8dad-82e8b9133afb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1685336133929</value>
+      <webElementGuid>122cbed0-d868-4b18-b0f7-02632eb3b9bb</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

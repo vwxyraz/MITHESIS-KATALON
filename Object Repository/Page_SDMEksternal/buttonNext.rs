@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonNext</name>
+   <tag></tag>
+   <elementGuidId>65f2a11c-7381-47bf-94bd-028479199890</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='table_sdm_external_next']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-angle-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>15d16b25-502f-4f24-8e87-3fdb1705ba42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-angle-right</value>
+      <webElementGuid>6028d7a2-d883-4ed5-abcb-490989da4233</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table_sdm_external_next&quot;)/i[@class=&quot;fas fa-angle-right&quot;]</value>
+      <webElementGuid>4995119f-782a-40f6-be6c-65bec467ba5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='table_sdm_external_next']/i</value>
+      <webElementGuid>d6c61476-2300-4e9c-8d1a-cb1a91014651</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/i</value>
+      <webElementGuid>7d9e0323-3f15-4d65-be81-22ceaf2828fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

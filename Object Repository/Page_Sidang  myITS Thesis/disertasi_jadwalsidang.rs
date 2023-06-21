@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>disertasi_jadwalsidang</name>
+   <tag></tag>
+   <elementGuidId>87d4d6fb-899e-4168-913a-b0789f1a7b5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pills-sidang-disertasi&quot;]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>0877a381-cc44-4ffc-a32d-246314d116f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1685807040191</value>
+      <webElementGuid>0f358761-bb62-4374-b286-eda209be5a0b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

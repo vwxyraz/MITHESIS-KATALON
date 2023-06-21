@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pemimpinSidang_sidang_ta</name>
+   <tag></tag>
+   <elementGuidId>eb598ff1-44b8-4248-9a62-0f7a268a7693</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pills-sidang-admin-ta&quot;]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>9444fbe9-50a0-4711-8ae6-d3eafa4d0698</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1685807354027</value>
+      <webElementGuid>f9ec7a96-7cba-43ec-99d3-cec5f346749c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

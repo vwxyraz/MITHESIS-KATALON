@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Auth</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>beeac8a2-fa59-4692-8ad6-5cc17bdeb36c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>db09b711-bbba-422c-adac-49b7db824f07</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>39c96db5-51d9-4b1b-b1a9-e4f4823cb1e7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('testData').getValue(2, 2)</defaultValue>
+      <description></description>
+      <id>db09b711-bbba-422c-adac-49b7db824f07</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('testData').getValue(3, 2)</defaultValue>
+      <description></description>
+      <id>39c96db5-51d9-4b1b-b1a9-e4f4823cb1e7</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

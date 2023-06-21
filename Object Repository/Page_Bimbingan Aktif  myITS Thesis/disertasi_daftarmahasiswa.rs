@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>disertasi_daftarmahasiswa</name>
+   <tag></tag>
+   <elementGuidId>b0757410-7a7e-4ad1-b8c7-510a47e28064</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pills-disertasi&quot;]/a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>4a9c8e19-022e-4ebe-9c18-76ab46e37c1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1685805361814</value>
+      <webElementGuid>3148cbda-3740-430f-a415-2bc50889e103</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

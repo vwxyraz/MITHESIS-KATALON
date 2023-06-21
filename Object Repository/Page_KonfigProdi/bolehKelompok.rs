@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bolehKelompok</name>
+   <tag></tag>
+   <elementGuidId>54620628-c3f3-4309-a133-2fb3c3074b38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div[2]/div/div/form/div/div[1]/div[1]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>e73207d4-4b28-403f-9862-c990c00970f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1679886093580</value>
+      <webElementGuid>efd5ee63-5004-4a52-8f6a-8d6fef3c004a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tolakPembimbinganDosen3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>930f478e-edc4-4870-856f-42d32af30dd1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>be3aca93-7d07-45f7-b943-b8323f963231</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'${judul}'</defaultValue>
+      <description></description>
+      <id>be3aca93-7d07-45f7-b943-b8323f963231</id>
+      <masked>false</masked>
+      <name>judul</name>
+   </variable>
+</TestCaseEntity>

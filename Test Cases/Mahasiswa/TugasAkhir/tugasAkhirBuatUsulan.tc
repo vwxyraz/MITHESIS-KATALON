@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Buat Usulan Baru Tugas Akhir</description>
+   <name>tugasAkhirBuatUsulan</name>
+   <tag>Tugas Akhir</tag>
+   <comment></comment>
+   <testCaseGuid>14dba235-0652-4b53-a6ae-47abbd62eeae</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>07a6734c-4752-495e-a620-66871307f008</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a10c3536-30b6-4637-99a6-2f1027daab7a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>07a6734c-4752-495e-a620-66871307f008</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a10c3536-30b6-4637-99a6-2f1027daab7a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

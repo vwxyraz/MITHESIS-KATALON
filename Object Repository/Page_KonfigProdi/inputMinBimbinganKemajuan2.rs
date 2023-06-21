@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputMinBimbinganKemajuan2</name>
+   <tag></tag>
+   <elementGuidId>e6956c3d-e201-47e2-8331-875ca30fb1a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;sidang_kemajuan_2&quot;]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>9ccbe5ad-d62c-471f-8351-369a24407051</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1679886606425</value>
+      <webElementGuid>a46c48d0-5d43-4ea3-8c14-7c6b96f84a4f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

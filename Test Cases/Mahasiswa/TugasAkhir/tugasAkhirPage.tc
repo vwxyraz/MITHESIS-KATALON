@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open Tugas Akhir Page</description>
+   <name>tugasAkhirPage</name>
+   <tag>Tugas Akhir</tag>
+   <comment></comment>
+   <testCaseGuid>5d5876e1-dca1-495f-b2a5-87a8aafc63a7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ab8996e7-7c08-488b-95ec-3e4b7c861617</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b8bb75db-dd97-4e10-a02f-3f774279d2ba</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'${username}'</defaultValue>
+      <description></description>
+      <id>ab8996e7-7c08-488b-95ec-3e4b7c861617</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'${password}'</defaultValue>
+      <description></description>
+      <id>b8bb75db-dd97-4e10-a02f-3f774279d2ba</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

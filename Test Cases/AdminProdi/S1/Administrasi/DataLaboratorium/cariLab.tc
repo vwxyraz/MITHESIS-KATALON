@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>cariLab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d486f9c5-5bde-4dab-9711-1f96d105c8b8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d2ee8f50-eef6-4c3c-bd3e-b8cd1140c455</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'${lab}'</defaultValue>
+      <description></description>
+      <id>d2ee8f50-eef6-4c3c-bd3e-b8cd1140c455</id>
+      <masked>false</masked>
+      <name>lab</name>
+   </variable>
+</TestCaseEntity>

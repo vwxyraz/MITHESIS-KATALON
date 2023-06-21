@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>table</name>
+   <tag></tag>
+   <elementGuidId>ecfde29f-92c7-40c0-8f11-2a8c1e2ba1f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;tabel-daftar-bimbingan&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>a8a9244b-b5a3-46aa-bdf1-fe38a10fd7aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1685340590684</value>
+      <webElementGuid>0b1943e2-ba88-4fa0-af03-865b6bce5f74</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

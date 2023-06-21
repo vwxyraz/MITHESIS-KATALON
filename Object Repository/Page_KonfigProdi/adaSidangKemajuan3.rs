@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>adaSidangKemajuan3</name>
+   <tag></tag>
+   <elementGuidId>8f84cb64-718c-4e13-b820-497b5036ed12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div[2]/div/div/form/div/div[8]/div[1]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>c5c65782-08fa-482f-b6dd-3baebbf2ad79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1679886657852</value>
+      <webElementGuid>db5701e4-46db-4c4a-a4c1-fb634809c8ce</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pemimpinSidang_tab_tesis</name>
+   <tag></tag>
+   <elementGuidId>2d30d27d-b3a9-474d-bdf3-5a22a04baaa1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pills-sidang-admin-tesis-tab&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>6128fa3b-16fb-49ec-b87c-e2172b61b71e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1685807296341</value>
+      <webElementGuid>0be4cc90-c044-4990-8a45-fbfbb07789bc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

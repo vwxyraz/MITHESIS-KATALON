@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ta_daftarmahasiswa</name>
+   <tag></tag>
+   <elementGuidId>3a1a2cdf-1140-46c1-a564-0c9d9c200219</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pills-tugas-akhir&quot;]/a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>60b5afff-8df4-4f53-9548-b3fa0ce98de7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1685805187758</value>
+      <webElementGuid>b96114fe-0a0d-42ae-987a-4a3f926bb922</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputMinBimbinganPublikasi</name>
+   <tag></tag>
+   <elementGuidId>acfab917-a2bb-4161-8930-c43769fc26c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;jml_min_bimbingan_publikasi&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>d36a1a17-39c3-4f64-92a3-0eb16e454c41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1679886818983</value>
+      <webElementGuid>c16917f4-c768-435c-aed7-bb66a61dfab4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

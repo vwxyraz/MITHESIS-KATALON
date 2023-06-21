@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>adaSidangKelayakan</name>
+   <tag></tag>
+   <elementGuidId>a227c86d-c3dd-48ee-8b1c-72424c3f357b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div[2]/div/div/form/div/div[14]/div[1]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>a4c418df-23e5-45fe-b0a1-9d7840a310cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1679886830294</value>
+      <webElementGuid>d6ed2af1-d948-4ac8-99c1-c1d99a62e124</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

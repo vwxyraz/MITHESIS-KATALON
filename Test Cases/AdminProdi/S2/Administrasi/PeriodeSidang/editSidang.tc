@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>editSidang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>66a8e0ba-d2bb-4e5a-b2a3-bf7bcb60a0dc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>01f59314-5725-48c2-ac49-a208b9ea63f9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>69b7844d-c751-471f-85a5-0f547ef43c65</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'${sidang}'</defaultValue>
+      <description></description>
+      <id>01f59314-5725-48c2-ac49-a208b9ea63f9</id>
+      <masked>false</masked>
+      <name>sidang</name>
+   </variable>
+   <variable>
+      <defaultValue>'Proposal tugas akhir'</defaultValue>
+      <description></description>
+      <id>69b7844d-c751-471f-85a5-0f547ef43c65</id>
+      <masked>false</masked>
+      <name>berkas</name>
+   </variable>
+</TestCaseEntity>

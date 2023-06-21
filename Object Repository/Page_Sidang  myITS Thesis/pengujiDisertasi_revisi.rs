@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pengujiDisertasi_revisi</name>
+   <tag></tag>
+   <elementGuidId>3c4d0252-018a-4456-b76a-72d3fa6d6404</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pills-sidang-dospeng-disertasi&quot;]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>0f176633-abb9-4e73-8c10-15ebf486c410</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1685807250438</value>
+      <webElementGuid>297c6261-48c5-4f54-ab78-8262d00d64e9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

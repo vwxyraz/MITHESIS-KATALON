@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_statusTopikSelect</name>
+   <tag></tag>
+   <elementGuidId>0a3ae9af-38ed-4585-a942-a706800d94cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;select2-statusTopik-results&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.select2-results</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6b597fc7-3d95-4ef6-8d33-b30dcf5809a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results</value>
+      <webElementGuid>80293ed4-269a-4e20-af73-cd114446b7eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Semua status topikBelum diambilSudah diambil</value>
+      <webElementGuid>c8386322-1151-4b8d-a79f-2297e1397f00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[1]/span[@class=&quot;select2-container select2-container--default select2-container--open&quot;]/span[@class=&quot;select2-dropdown select2-dropdown--below&quot;]/span[@class=&quot;select2-results&quot;]</value>
+      <webElementGuid>ad5fb2b8-cbca-4f48-be9f-73b6899300de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::span[4]</value>
+      <webElementGuid>70d949b7-eb8b-4aa2-a014-08a6d28f3858</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::span[4]</value>
+      <webElementGuid>44b81d63-d580-4f0d-ba0b-3a4045fc5989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/span/span/span[2]</value>
+      <webElementGuid>dd312a5b-683e-4085-8d21-0b8290349e70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Semua status topikBelum diambilSudah diambil' or . = 'Semua status topikBelum diambilSudah diambil')]</value>
+      <webElementGuid>91e6b617-d4c5-493d-be54-3b556cd87380</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sidangButton</name>
+   <tag></tag>
+   <elementGuidId>612a3e7e-2b5b-4c32-87bf-96e67341a5eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//aside[@id='aside-menu']/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a0a6db56-38a5-46e4-987d-eb3f47bdfe23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://dev-thesis.its.ac.id/sidang</value>
+      <webElementGuid>05f14873-b2bc-467a-9319-0039a5f343e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link-its d-flex justify-content-start align-items-center </value>
+      <webElementGuid>5f6d32a9-9829-49f9-8414-5a38f2cef583</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sidang</value>
+      <webElementGuid>52f60b53-078f-4dd1-90a0-3c2acf650939</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aside-menu&quot;)/ul[@class=&quot;sidebar-nav ht-100p pd-y-10 scrollbar-its&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link-its d-flex justify-content-start align-items-center&quot;]</value>
+      <webElementGuid>8f7a0329-a672-452c-a1a5-9de537156bc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='aside-menu']/ul/li[4]/a</value>
+      <webElementGuid>7e050536-1551-4825-bd4d-3a219ed9b9c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bimbingan Aktif'])[2]/following::a[1]</value>
+      <webElementGuid>86726d60-ff4a-4421-aa57-c43ee266bda2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penawaran Topik'])[2]/following::a[2]</value>
+      <webElementGuid>189d863b-84d2-4531-9989-3ce199201fed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Repositori Dokumen'])[2]/preceding::a[1]</value>
+      <webElementGuid>9fdbcda6-50bc-4fb4-97b1-167a7e1c7bac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://dev-thesis.its.ac.id/sidang')])[3]</value>
+      <webElementGuid>3185a771-a4e4-43e5-a3d4-7a4966114ef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside/ul/li[4]/a</value>
+      <webElementGuid>33faa5be-7825-4549-b9d9-bf789c5075dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://dev-thesis.its.ac.id/sidang' and (text() = 'Sidang' or . = 'Sidang')]</value>
+      <webElementGuid>883caa4d-61d1-468d-b0a0-db5676a26b36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

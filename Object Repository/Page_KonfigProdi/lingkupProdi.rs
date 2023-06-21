@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lingkupProdi</name>
+   <tag></tag>
+   <elementGuidId>c7727670-dc64-4e08-aa40-c3a957b9c0fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;lingkup-alokasi&quot;]/div/div[1]/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>30e8dc6e-2b66-4782-9560-30420d997658</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1679886887553</value>
+      <webElementGuid>1b757db8-65e5-4ed2-be0f-555137364880</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

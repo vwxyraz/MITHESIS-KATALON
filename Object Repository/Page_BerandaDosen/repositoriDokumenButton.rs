@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>repositoriDokumenButton</name>
+   <tag></tag>
+   <elementGuidId>0c4483cd-92c5-46e7-b591-c4e75728298c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//aside[@id='aside-menu']/ul/li[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e882966c-fb91-4250-a5a2-6ebe996aa7a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://dev-thesis.its.ac.id/berkas/dokumen-final</value>
+      <webElementGuid>ec65498e-4832-4301-aebb-b9bfc26b908c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link-its d-flex justify-content-start align-items-center </value>
+      <webElementGuid>6d3ec616-1b44-42ef-acbe-52aa86eb53ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Repositori Dokumen</value>
+      <webElementGuid>6a1c8a99-2e4e-4911-9f44-9fe60835de20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aside-menu&quot;)/ul[@class=&quot;sidebar-nav ht-100p pd-y-10 scrollbar-its&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link-its d-flex justify-content-start align-items-center&quot;]</value>
+      <webElementGuid>4fe61a55-d051-4042-b768-1e2a9a7a37b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='aside-menu']/ul/li[5]/a</value>
+      <webElementGuid>cd9fffbb-6445-4716-beec-b91565f40ed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sidang'])[2]/following::a[1]</value>
+      <webElementGuid>06256fab-d19f-4db3-b4ea-5408c995d6f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bimbingan Aktif'])[2]/following::a[2]</value>
+      <webElementGuid>acd67f9a-f7e2-49fd-a46e-31c8686f3ab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jadwal Sidang'])[2]/preceding::a[1]</value>
+      <webElementGuid>2b5c2495-35e3-4c1a-828c-121468257452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://dev-thesis.its.ac.id/berkas/dokumen-final')])[2]</value>
+      <webElementGuid>10801b66-bd38-4798-84ec-bad41e142d40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside/ul/li[5]/a</value>
+      <webElementGuid>74fe77c7-5704-4122-8890-b42632d24460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://dev-thesis.its.ac.id/berkas/dokumen-final' and (text() = 'Repositori Dokumen' or . = 'Repositori Dokumen')]</value>
+      <webElementGuid>69fcf605-82f7-4b81-ba30-7a914cca3dc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

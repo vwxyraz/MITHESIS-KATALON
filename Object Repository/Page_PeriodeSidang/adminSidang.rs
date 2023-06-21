@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>adminSidang</name>
+   <tag></tag>
+   <elementGuidId>d1305061-571f-4035-8d1a-2900d17fb6b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;div_admin_sidang&quot;]/div/span/span[1]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>39b8d21c-9d9d-4c7b-bacf-5f4242a67753</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1679970249962</value>
+      <webElementGuid>4dbad6e6-1c72-4fb9-a71c-f760c847bd75</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

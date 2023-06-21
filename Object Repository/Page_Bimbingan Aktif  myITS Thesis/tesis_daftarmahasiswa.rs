@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tesis_daftarmahasiswa</name>
+   <tag></tag>
+   <elementGuidId>01ddddb0-9d8c-450d-a15d-d29c52f3b3ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pills-tesis&quot;]/a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>89c695d1-c660-41d3-aa38-6f9f41b984a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1685805271419</value>
+      <webElementGuid>a03e69d6-d82c-41f0-81f6-b0b1fb7141b3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

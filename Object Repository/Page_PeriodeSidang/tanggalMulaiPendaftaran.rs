@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tanggalMulaiPendaftaran</name>
+   <tag></tag>
+   <elementGuidId>56df1409-0f45-4f1b-b15a-b3cf8cc728b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;tgl_mulai_daftar&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>21ea1ede-735e-44f3-bd18-6890523bc39d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1679970395582</value>
+      <webElementGuid>f917ebdb-4dec-4b88-aa3a-6153b82f82cb</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

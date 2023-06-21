@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>penawaranTopikButton</name>
+   <tag></tag>
+   <elementGuidId>6b205508-794f-4f58-9e27-df8307734bbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//aside[@id='aside-menu']/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2f2613a7-314d-49fa-8d15-64a625cbfab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://dev-thesis.its.ac.id/topik</value>
+      <webElementGuid>64c16ec1-47e3-4eaa-ac58-527db3dd5882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link-its d-flex justify-content-start align-items-center </value>
+      <webElementGuid>71bc164c-45e5-4d99-8b5b-2fe450e260be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Penawaran Topik</value>
+      <webElementGuid>3ab8c7b6-f7b6-4183-be7c-c4121a2a66f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aside-menu&quot;)/ul[@class=&quot;sidebar-nav ht-100p pd-y-10 scrollbar-its&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link-its d-flex justify-content-start align-items-center&quot;]</value>
+      <webElementGuid>abdc025c-eea2-4197-9327-81359f9f5649</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='aside-menu']/ul/li[2]/a</value>
+      <webElementGuid>bdb76ffc-f8db-40a7-ab40-e41d1c18fe05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[2]/following::a[1]</value>
+      <webElementGuid>1cb17f85-3f9a-4183-a41c-a6aeb3f2aaf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengumuman'])[1]/following::a[2]</value>
+      <webElementGuid>1433ee2e-b88d-44cb-aa41-8a46932305a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bimbingan Aktif'])[2]/preceding::a[1]</value>
+      <webElementGuid>8284cd4d-8311-4933-a4d6-ccf4d3cc0612</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://dev-thesis.its.ac.id/topik')])[2]</value>
+      <webElementGuid>21cae06b-9d09-48a9-a657-bdea3ec77f26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside/ul/li[2]/a</value>
+      <webElementGuid>06f4ee79-4cb4-4d11-984e-586bb7139b4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://dev-thesis.its.ac.id/topik' and (text() = 'Penawaran Topik' or . = 'Penawaran Topik')]</value>
+      <webElementGuid>171e2117-5ec7-4818-8090-585eda5bcfc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WNA</name>
+   <tag></tag>
+   <elementGuidId>66f28df3-0cbc-439f-9d19-cfd87595d378</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='formSdmEksternal']/div[2]/div/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>321c1787-98e4-4119-a7ff-0596a5bb19e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control-label</value>
+      <webElementGuid>c8d3d6c0-4d4e-4bdf-93ce-3adc7ddbac8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>wna</value>
+      <webElementGuid>c1ad2516-4fc2-47be-b85b-8011646a70e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Warga negara asing (WNA)</value>
+      <webElementGuid>f8322eb9-1c0d-4b36-96fd-f4fee4ceab43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formSdmEksternal&quot;)/div[@class=&quot;form-row&quot;]/div[@class=&quot;col-md-6 col-xs-12&quot;]/div[@class=&quot;custom-control custom-radio&quot;]/label[@class=&quot;custom-control-label&quot;]</value>
+      <webElementGuid>8a486969-fece-455c-b73f-ce9b5826449f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formSdmEksternal']/div[2]/div/div[2]/label</value>
+      <webElementGuid>6be20f6e-fd34-473c-bcba-c63108030125</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warga negara Indonesia (WNI)'])[1]/following::label[1]</value>
+      <webElementGuid>bc67e5cd-b14b-4201-bbd4-4362acb97fed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gelar Belakang'])[1]/following::label[2]</value>
+      <webElementGuid>9dce3fcb-440c-444d-a9f5-b71c33995e83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NIK'])[1]/preceding::label[1]</value>
+      <webElementGuid>fec4b115-7c62-4eda-865d-efbd3cc5c4b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Paspor'])[1]/preceding::label[2]</value>
+      <webElementGuid>72c57ef7-c897-4a3a-a2db-8343cac5eebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Warga negara asing (WNA)']/parent::*</value>
+      <webElementGuid>6ae9a52a-00bf-4073-b826-99421825961b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label</value>
+      <webElementGuid>21108b2d-097e-4e02-8946-5dee98d0c466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Warga negara asing (WNA)' or . = 'Warga negara asing (WNA)')]</value>
+      <webElementGuid>a25f1475-dce4-4b9c-a4ef-fb448178a797</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

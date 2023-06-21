@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputJenisSidang</name>
+   <tag></tag>
+   <elementGuidId>db857fec-d833-4d9c-acae-fb3afe393f4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/span/span/span[1]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>bddb2fa7-bd5d-4a39-8be2-a234dd69e9a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1680663102448</value>
+      <webElementGuid>24e4f38d-c73e-433b-9d1d-e5a4861a4928</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

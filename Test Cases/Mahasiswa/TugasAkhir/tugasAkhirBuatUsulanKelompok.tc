@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tugasAkhirBuatUsulanKelompok</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2699b24e-c173-498b-bc27-1ee08476b7a3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>160f8ae2-9077-4e0b-bba0-441884607663</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>00fdf8d9-cdd7-4a04-89b4-c0cd075fd442</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData(null).getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>160f8ae2-9077-4e0b-bba0-441884607663</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>00fdf8d9-cdd7-4a04-89b4-c0cd075fd442</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

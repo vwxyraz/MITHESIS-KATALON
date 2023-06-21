@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lingkupLab</name>
+   <tag></tag>
+   <elementGuidId>3ea043f5-3cd9-4d0d-b7fb-4b4d5eb8f67d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;lingkup-alokasi&quot;]/div/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>736ece4b-2bb0-4a0c-89b2-3ae20a7564d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1679886914954</value>
+      <webElementGuid>489852e3-4675-450b-951d-92e363388b53</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputMinBimbinganKelayakan</name>
+   <tag></tag>
+   <elementGuidId>20496cb9-8333-44ff-9733-c0bc7fdffad2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;jml_min_bimbingan_kelayakan&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>f3d0c66a-2540-40e2-b787-54b38559fbeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1679886874382</value>
+      <webElementGuid>f54a722d-6bcb-4c0d-805d-b55cc15f8a40</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>pilihStatusTopik</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5dd4e98-a00f-4e8a-913c-27e4e624deef</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>27423167-9c44-4bcc-9d72-05bd10319065</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Belum diambil'</defaultValue>
+      <description></description>
+      <id>27423167-9c44-4bcc-9d72-05bd10319065</id>
+      <masked>false</masked>
+      <name>status</name>
+   </variable>
+</TestCaseEntity>

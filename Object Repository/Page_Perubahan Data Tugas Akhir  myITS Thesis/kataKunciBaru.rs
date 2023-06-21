@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>kataKunciBaru</name>
+   <tag></tag>
+   <elementGuidId>7515f22f-18b0-4f55-aaa5-23c8f94a8f7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-group > div.bootstrap-tagsinput > input[type=&quot;text&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>75e4f145-3ca3-4d70-b9c5-cd61f8e7d978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>32ffd206-3d00-44f0-97a2-ba3d3f5e4b83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[1]/div[@class=&quot;content ht-100v pd-0&quot;]/div[@class=&quot;content-body mn-ht-100v d-flex flex-column&quot;]/div[@class=&quot;container pd-x-0 mg-t-50&quot;]/div[@class=&quot;row row-xs&quot;]/div[@class=&quot;col-12 col-sm-12 col-md-10 col-lg-7 col-xl-7 mg-b-10&quot;]/div[@class=&quot;card bd-0&quot;]/div[@class=&quot;card-body card-list&quot;]/form[@class=&quot;needs-validation&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;bootstrap-tagsinput&quot;]/input[1]</value>
+      <webElementGuid>0ff4b9c8-282d-4f11-a89c-ef83d3f2dc17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[3]</value>
+      <webElementGuid>21670c18-f76f-4d2a-b20b-ccdf098c5165</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/input</value>
+      <webElementGuid>b212bcdc-7b59-42f1-a2af-8df5541e8ea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>18ef8b9e-6dae-4c4e-8ef3-01730c8f62dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

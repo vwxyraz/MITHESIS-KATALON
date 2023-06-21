@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tugasAkhirMahasiswa</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f338bf68-38b7-4227-bca3-39b44bf4ba10</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c0830e07-365e-4278-ae03-93a8775219dd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Dummy Mahasiswa 2'</defaultValue>
+      <description></description>
+      <id>c0830e07-365e-4278-ae03-93a8775219dd</id>
+      <masked>false</masked>
+      <name>namaMahasiswa</name>
+   </variable>
+</TestCaseEntity>

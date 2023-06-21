@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>kataKunci</name>
+   <tag></tag>
+   <elementGuidId>9793dd3d-cc2a-49d0-aed8-bf0ec43448d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Kunci'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.bootstrap-tagsinput</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cbf2d5d1-77a0-4a17-984d-3b5cbff7b728</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bootstrap-tagsinput</value>
+      <webElementGuid>d3430f14-5d6d-4e3d-93a6-94300d0ef246</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[1]/div[@class=&quot;content ht-100v pd-0&quot;]/div[@class=&quot;content-body mn-ht-100v d-flex flex-column&quot;]/div[@class=&quot;container pd-x-0 mg-t-50&quot;]/div[@class=&quot;row row-xs&quot;]/div[@class=&quot;col-12 col-sm-12 col-md-10 col-lg-7 col-xl-7 mg-b-10&quot;]/div[@class=&quot;card bd-0&quot;]/div[@class=&quot;card-body&quot;]/form[@class=&quot;needs-validation&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;bootstrap-tagsinput&quot;]</value>
+      <webElementGuid>93f3b512-aec3-445a-9b4c-9e674c9391df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Kunci'])[1]/following::div[1]</value>
+      <webElementGuid>453993b0-2da5-4519-b4cd-68e83f5f25a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Topik::topik-saya.mohon_masukkan_deskripsi'])[1]/following::div[2]</value>
+      <webElementGuid>9f4f5d5d-37f5-4b82-95b7-530c3a647066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Topik::topik-saya.mohon_masukkan_kata_kunci'])[1]/preceding::div[1]</value>
+      <webElementGuid>56e87216-06b6-4ce6-98b4-6bea25196b0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usulan Dosen Pembimbing'])[1]/preceding::div[2]</value>
+      <webElementGuid>5e68dd43-40e7-4806-973b-6fba43180217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[4]/div</value>
+      <webElementGuid>77005514-d67a-4c9f-81f7-053572b56e3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

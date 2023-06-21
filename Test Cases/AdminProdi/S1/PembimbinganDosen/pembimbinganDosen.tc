@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>pembimbinganDosen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5687afbd-e540-4b92-8c10-6de284bf26a3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9a677ec7-49ee-4b31-9ace-15b3d598d5f2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Rizky Januar'</defaultValue>
+      <description></description>
+      <id>9a677ec7-49ee-4b31-9ace-15b3d598d5f2</id>
+      <masked>false</masked>
+      <name>namaDosen</name>
+   </variable>
+</TestCaseEntity>

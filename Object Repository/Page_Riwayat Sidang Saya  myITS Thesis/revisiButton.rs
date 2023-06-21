@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>revisiButton</name>
+   <tag></tag>
+   <elementGuidId>2fe4deb1-0237-4ad9-94ef-11b7e5771dd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/div[2]/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>a05b93cc-ce2a-4b3a-b87a-c3652a497ff8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1686208238894</value>
+      <webElementGuid>055a8ea0-bab0-4d8e-8d72-463477f1ff15</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

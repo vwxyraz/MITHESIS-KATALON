@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>searchSidang</name>
+   <tag></tag>
+   <elementGuidId>172b6bd2-a733-4d7d-b513-e3468b86dd34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.select2-results</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::span[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e26910ff-c50b-44ec-912f-cacfaa23b7dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results</value>
+      <webElementGuid>3521f2c6-8c20-48cc-9ebd-77695527526d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sidang ProposalSidang Kemajuan 1Sidang AkhirSidang PublikasiSidang Kemajuan 2Sidang Kemajuan 3Sidang KelayakanSidang Pra KualifikasiSidang KualifikasiSidang TertutupSidang Promosi Terbuka</value>
+      <webElementGuid>939d117e-6934-45fb-a843-4586e2d86c59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[1]/span[@class=&quot;select2-container select2-container--default select2-container--open&quot;]/span[@class=&quot;select2-dropdown select2-dropdown--below&quot;]/span[@class=&quot;select2-results&quot;]</value>
+      <webElementGuid>e47713e3-f54e-43ce-b7f6-f8e78463b83a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::span[4]</value>
+      <webElementGuid>1033028e-e56b-40db-bd8c-f700e1224713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::span[4]</value>
+      <webElementGuid>f11e2256-adac-40bf-be78-5b1eb9bfdd55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/span/span/span[2]</value>
+      <webElementGuid>d78e1a2a-a65f-448c-9003-dc2d94889c7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sidang ProposalSidang Kemajuan 1Sidang AkhirSidang PublikasiSidang Kemajuan 2Sidang Kemajuan 3Sidang KelayakanSidang Pra KualifikasiSidang KualifikasiSidang TertutupSidang Promosi Terbuka' or . = 'Sidang ProposalSidang Kemajuan 1Sidang AkhirSidang PublikasiSidang Kemajuan 2Sidang Kemajuan 3Sidang KelayakanSidang Pra KualifikasiSidang KualifikasiSidang TertutupSidang Promosi Terbuka')]</value>
+      <webElementGuid>5e713a57-b750-4e42-9851-aef628e14459</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputMinBimbingan</name>
+   <tag></tag>
+   <elementGuidId>3cc3e79d-382b-4a80-8734-192a8f40c894</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name=&quot;sidang[0][jml_min_bimbingan]&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>21af39f1-61ec-4a8a-8ec9-b340f9feecc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1679886224024</value>
+      <webElementGuid>e68ed076-ce43-4e7d-ac55-b9b6d218f333</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

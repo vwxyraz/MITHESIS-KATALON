@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>status</name>
+   <tag></tag>
+   <elementGuidId>0edbd4e2-d768-4364-89d4-808b6512fd27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div[2]/div[1]/div/div/div[2]/div[2]/div/span/span[1]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>a2664feb-c1b9-49cd-9c5c-d2e398058613</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1680662958319</value>
+      <webElementGuid>e32c0aef-06c9-4e10-8ce4-f597ffc1f9eb</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>jenisSidang</name>
+   <tag></tag>
+   <elementGuidId>ec4f87d5-174e-4bc1-adba-b8dba9d1d4e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div[2]/div[1]/div/div/div/div[2]/div/span/span[1]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>8ffbcb71-83ac-42e5-9800-cb4406c94242</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1685343002000</value>
+      <webElementGuid>b5fb3391-9f05-4ad8-8641-2e2e5c282ef6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

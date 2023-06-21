@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tanggalAkhirSidang</name>
+   <tag></tag>
+   <elementGuidId>42000194-4f8a-429d-88e1-ac054e1e8d0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;tgl_akhir_sidang&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>1d96084c-20e7-4972-9532-1011c4a6de6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1679970533088</value>
+      <webElementGuid>1dd2420f-f1d7-46a0-8ce9-6e8753ab45e4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

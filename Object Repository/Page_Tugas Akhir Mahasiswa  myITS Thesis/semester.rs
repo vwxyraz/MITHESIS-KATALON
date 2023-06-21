@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>semester</name>
+   <tag></tag>
+   <elementGuidId>1ae0d92d-49af-47b5-88c0-292530938735</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;form-filter&quot;]/div[1]/div[4]/div/span/span[1]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>da0467b5-084c-4d28-bed3-496e94174f23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1684229536356</value>
+      <webElementGuid>9403fd83-a0cc-4ee8-8116-1a250e9cc7e2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

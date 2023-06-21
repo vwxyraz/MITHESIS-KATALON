@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>backButton</name>
+   <tag></tag>
+   <elementGuidId>8a53b9c5-e683-4ead-8a24-20816bd6fd2b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-icon.btn-its-custom-1.tx-poppins.tx-medium.rounded-its-50p.d-flex.align-items-center.mg-r-5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f70ac4ce-2eb0-40c3-9981-4f9eae21918d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://dev-thesis.its.ac.id/topik</value>
+      <webElementGuid>65ef1c88-6918-44ec-a127-55fd2df09895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-icon btn-its-custom-1 tx-poppins tx-medium rounded-its-50p d-flex align-items-center mg-r-5</value>
+      <webElementGuid>03edafb7-eef7-4674-a207-eeaa5d4159d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[1]/div[@class=&quot;content ht-100v pd-0&quot;]/div[@class=&quot;content-body mn-ht-100v d-flex flex-column&quot;]/div[@class=&quot;container pd-x-0 mg-t-50&quot;]/div[@class=&quot;d-flex align-items-center justify-content-between mg-b-20 mg-sm-b-25 mg-lg-b-25&quot;]/div[@class=&quot;d-flex align-items-center justify-content-start&quot;]/a[@class=&quot;btn btn-icon btn-its-custom-1 tx-poppins tx-medium rounded-its-50p d-flex align-items-center mg-r-5&quot;]</value>
+      <webElementGuid>b2cec65f-4d89-41b2-867a-79260ff97e9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengumuman'])[2]/following::a[1]</value>
+      <webElementGuid>21d97d19-fdd7-4599-8b50-4d272909f970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jadwal Sidang'])[2]/following::a[2]</value>
+      <webElementGuid>69e38abe-2b84-46d5-8bb9-4801c649a7dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semua Topik'])[1]/preceding::a[1]</value>
+      <webElementGuid>c7e4282b-489b-4957-8a29-b81b6c8b5c90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Topik dari Semua Dosen'])[1]/preceding::a[1]</value>
+      <webElementGuid>50155de8-a550-425d-bbac-b0f43dd635ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://dev-thesis.its.ac.id/topik')])[3]</value>
+      <webElementGuid>fde38f51-b0ea-44b6-ba0a-192355761b85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/a</value>
+      <webElementGuid>48d9a96f-d1d0-4e60-8918-a85b7e4bbe3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://dev-thesis.its.ac.id/topik']</value>
+      <webElementGuid>a6277ded-d447-46ce-91be-9d13444da064</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

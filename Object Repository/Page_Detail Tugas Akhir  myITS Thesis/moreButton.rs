@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>moreButton</name>
+   <tag></tag>
+   <elementGuidId>249dc383-7d11-4099-9d58-6ef4e7fe1b30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown-link.btn.btn-icon.btn-its-custom-1.rounded-its-50p.d-flex.align-items-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@title = 'Aksi']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6a01586e-0163-4e00-a390-141a9463ae06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-link btn btn-icon btn-its-custom-1 rounded-its-50p d-flex align-items-center</value>
+      <webElementGuid>adf0ff20-92d2-455c-a339-a8e41b7ad5ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>1c725173-bf1e-47c5-b5d9-f7db1dac5b90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Aksi</value>
+      <webElementGuid>4e3e0f03-2782-4bdc-b686-c1b039578e77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[1]/div[@class=&quot;content ht-100v pd-0&quot;]/div[@class=&quot;content-body mn-ht-100v d-flex flex-column&quot;]/div[@class=&quot;container pd-x-0 mg-t-50&quot;]/div[@class=&quot;row row-xs&quot;]/div[@class=&quot;col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mg-b-10 mg-md-b-50&quot;]/div[@class=&quot;card bd-0&quot;]/div[@class=&quot;card-body card-list&quot;]/div[@class=&quot;card-list-item&quot;]/div[@class=&quot;d-flex align-items-start justify-content-between&quot;]/div[@class=&quot;dropdown&quot;]/a[@class=&quot;dropdown-link btn btn-icon btn-its-custom-1 rounded-its-50p d-flex align-items-center&quot;]</value>
+      <webElementGuid>9e2db57b-b9c3-42fc-943c-bcf88ae049e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disetujui pembimbing'])[1]/following::a[1]</value>
+      <webElementGuid>90c56b83-77c1-4850-9bb1-334347c607d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/a</value>
+      <webElementGuid>4c3ce483-d773-488c-916a-f451b7e7ef57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Aksi']</value>
+      <webElementGuid>30dd301d-9953-4ec9-af20-dd3d4af3c3ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

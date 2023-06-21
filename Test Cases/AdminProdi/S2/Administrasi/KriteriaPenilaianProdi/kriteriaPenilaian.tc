@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>kriteriaPenilaian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea49e329-1a04-42ee-9b50-24d2c6c6287d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d8918b61-7929-4cf7-abf0-76317a2e67dc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Rubrik Test'</defaultValue>
+      <description></description>
+      <id>d8918b61-7929-4cf7-abf0-76317a2e67dc</id>
+      <masked>false</masked>
+      <name>objectCard</name>
+   </variable>
+</TestCaseEntity>

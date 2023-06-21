@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>periodeSidang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82ac949f-8597-44ff-b475-1c9d4efdf332</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>100da6bc-f37c-44d0-8f3c-5295eeca8670</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Periode Sidang Proposal'</defaultValue>
+      <description></description>
+      <id>100da6bc-f37c-44d0-8f3c-5295eeca8670</id>
+      <masked>false</masked>
+      <name>sidang</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>backButton</name>
+   <tag></tag>
+   <elementGuidId>c074f134-a1f6-4c00-8a51-a2a3b1bbc243</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div[1]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-icon.btn-its-custom-1.tx-poppins.tx-medium.rounded-its-50p.d-flex.align-items-center.mg-r-5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fbe01393-05b0-4b69-8f83-aca3a4176542</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://dev-thesis.its.ac.id/pembimbingan</value>
+      <webElementGuid>8d9584ac-d57c-4b11-b012-c1ade9630f22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-icon btn-its-custom-1 tx-poppins tx-medium rounded-its-50p d-flex align-items-center mg-r-5</value>
+      <webElementGuid>76e63b94-74c5-41a8-8fde-027311b5263b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hydrated&quot;]/body[1]/div[@class=&quot;content ht-100v pd-0&quot;]/div[@class=&quot;content-body mn-ht-100v d-flex flex-column&quot;]/div[@class=&quot;container pd-x-0 mg-t-50&quot;]/div[@class=&quot;d-flex align-items-center justify-content-between mg-b-20 mg-sm-b-25 mg-lg-b-25&quot;]/div[@class=&quot;d-flex align-items-center justify-content-start&quot;]/a[@class=&quot;btn btn-icon btn-its-custom-1 tx-poppins tx-medium rounded-its-50p d-flex align-items-center mg-r-5&quot;]</value>
+      <webElementGuid>924aa49b-09a0-48c8-9b4e-b7dd4ed5daf7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengumuman'])[2]/following::a[1]</value>
+      <webElementGuid>1636e12e-a1c5-429f-a6e9-8b4367294804</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jadwal Sidang'])[2]/following::a[2]</value>
+      <webElementGuid>b6dd7a1a-561f-48a9-b86c-27af8c644c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Bimbingan Tugas Akhir Anda'])[1]/preceding::a[1]</value>
+      <webElementGuid>6829a106-1f71-4811-b48c-3bdd7d43202b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anda belum memiliki permintaan bimbingan terbaru'])[1]/preceding::a[1]</value>
+      <webElementGuid>7621fcb5-556d-4024-a07f-7f91f80eeaaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://dev-thesis.its.ac.id/pembimbingan')])[3]</value>
+      <webElementGuid>af873504-8015-48a3-9001-5f436ba43973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/a</value>
+      <webElementGuid>2952e0bb-8f98-4d40-913f-375826428490</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://dev-thesis.its.ac.id/pembimbingan']</value>
+      <webElementGuid>332ec7ac-76aa-444b-8810-820e79b29094</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

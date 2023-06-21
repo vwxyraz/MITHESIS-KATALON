@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_tableTopikJudul</name>
+   <tag></tag>
+   <elementGuidId>e1ababd9-458d-408d-91eb-4c99f0b3cac9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='topik']/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>1282bcb9-26c4-4d9a-8e05-0df08a8f6052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table-its</value>
+      <webElementGuid>03a028ee-4c4a-4b83-b171-06f08394aed3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Klasifikasi bentuk wajah manusiaClassification of the shape of the human face</value>
+      <webElementGuid>f3ffe390-c7c3-40ed-8839-a45f465180fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;topik&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;table-its&quot;]</value>
+      <webElementGuid>589d4eb6-9b10-408f-a7ad-ea7fc5061e8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='topik']/tbody/tr/td[2]</value>
+      <webElementGuid>7a767909-0668-442c-8efa-b34e5e482f92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::td[2]</value>
+      <webElementGuid>5a6416cd-1923-4601-8462-329f3eb640c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dosen Pembimbing'])[1]/following::td[2]</value>
+      <webElementGuid>2dedad4d-8d1f-4355-8ba2-116d2bf7835a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rizky Januar Akbar, S.Kom., M.Eng.'])[1]/preceding::td[3]</value>
+      <webElementGuid>40a0f2a9-94eb-431f-8069-ba4ce67b796c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hudan Studiawan, S.Kom., M.Kom., Ph.D.'])[1]/preceding::td[3]</value>
+      <webElementGuid>0b3e82b3-af2f-4311-8269-342a6a59ac38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>41e0335d-4583-4f41-a801-022a6893c6c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Klasifikasi bentuk wajah manusiaClassification of the shape of the human face' or . = 'Klasifikasi bentuk wajah manusiaClassification of the shape of the human face')]</value>
+      <webElementGuid>96fb6aa4-4ae1-4c90-91a9-6181ec34bf1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

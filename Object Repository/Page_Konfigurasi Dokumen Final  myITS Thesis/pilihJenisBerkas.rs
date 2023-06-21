@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pilihJenisBerkas</name>
+   <tag></tag>
+   <elementGuidId>45601494-441c-4431-9653-99ac3755e8d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;card-form&quot;]/div/form/div[1]/div[1]/div[1]/span/span[1]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>d27e8645-9cf8-4872-9536-1ac1cd38b289</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1684204410182</value>
+      <webElementGuid>a3a43a1b-4bdf-4ef9-b984-cb26c33d302f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

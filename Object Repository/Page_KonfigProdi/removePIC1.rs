@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>removePIC1</name>
+   <tag></tag>
+   <elementGuidId>bdd69b6c-5f0b-4a72-a430-b4314a038938</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;btn-delete-pic&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>aa419b28-2c09-4e54-a318-e3ebde46cce8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1679888247220</value>
+      <webElementGuid>7a4806f7-176c-4ce6-ab8e-04ce7fb1f0d4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

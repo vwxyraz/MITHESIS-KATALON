@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>buatSidang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81647770-da5b-405e-b65e-9e059b357e15</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d6326a2f-fb1e-4694-a6ac-97e32d71a576</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>04fa31ca-8b96-4563-a17e-baedc26a8d10</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>038cabd8-0320-432a-bc3c-a3e32db24a60</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>46de6d19-d1e7-4130-a528-2d0f29dbb41e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2363853d-ce51-4ebc-82b2-5119e3889ea9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>55fbe047-afcc-4ec4-8e5c-b10ec60ea840</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Sidang Proposal'</defaultValue>
+      <description></description>
+      <id>d6326a2f-fb1e-4694-a6ac-97e32d71a576</id>
+      <masked>false</masked>
+      <name>jenis</name>
+   </variable>
+   <variable>
+      <defaultValue>'${sidang}'</defaultValue>
+      <description></description>
+      <id>04fa31ca-8b96-4563-a17e-baedc26a8d10</id>
+      <masked>false</masked>
+      <name>namaSidang</name>
+   </variable>
+   <variable>
+      <defaultValue>'Proposal Exam Periode'</defaultValue>
+      <description></description>
+      <id>038cabd8-0320-432a-bc3c-a3e32db24a60</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Dosen 1'</defaultValue>
+      <description></description>
+      <id>46de6d19-d1e7-4130-a528-2d0f29dbb41e</id>
+      <masked>false</masked>
+      <name>dosen</name>
+   </variable>
+   <variable>
+      <defaultValue>'Proposal tugas akhir'</defaultValue>
+      <description></description>
+      <id>2363853d-ce51-4ebc-82b2-5119e3889ea9</id>
+      <masked>false</masked>
+      <name>berkas</name>
+   </variable>
+   <variable>
+      <defaultValue>'proposal tugas akhir'</defaultValue>
+      <description></description>
+      <id>55fbe047-afcc-4ec4-8e5c-b10ec60ea840</id>
+      <masked>false</masked>
+      <name>ket</name>
+   </variable>
+</TestCaseEntity>

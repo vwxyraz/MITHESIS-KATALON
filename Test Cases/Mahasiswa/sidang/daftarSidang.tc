@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>daftarSidang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5d5ae5f-5a0b-4c04-af02-0804dcc75594</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9f432b37-7589-468f-976b-b5dd691d4611</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3f269ec0-99fc-473e-a25a-bbb3c9f736df</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'202202020034'</defaultValue>
+      <description></description>
+      <id>9f432b37-7589-468f-976b-b5dd691d4611</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'IxnW06eNG1'</defaultValue>
+      <description></description>
+      <id>3f269ec0-99fc-473e-a25a-bbb3c9f736df</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

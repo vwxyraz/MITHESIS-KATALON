@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>cariPenawaranTopik</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2404e408-b6f6-42ca-b8ef-14528be9695a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9b8ac50f-411a-4bb0-9dbb-5525bed28184</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Buat Topik Tugas Akhir'</defaultValue>
+      <description></description>
+      <id>9b8ac50f-411a-4bb0-9dbb-5525bed28184</id>
+      <masked>false</masked>
+      <name>topikSearch</name>
+   </variable>
+</TestCaseEntity>

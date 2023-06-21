@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Auth2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>045a0fb9-1c66-4486-8b8b-2a83104c2b99</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>045d0716-528b-4d8f-9e54-f71cc02fb07a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fca8ee0a-eaaa-4c8f-b382-3533281a9564</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'dosen_2'</defaultValue>
+      <description></description>
+      <id>045d0716-528b-4d8f-9e54-f71cc02fb07a</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'P4Qu9qW5'</defaultValue>
+      <description></description>
+      <id>fca8ee0a-eaaa-4c8f-b382-3533281a9564</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

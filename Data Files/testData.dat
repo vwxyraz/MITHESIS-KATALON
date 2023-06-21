@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>testData</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>99957edc-c070-408c-902e-837b6e7b175f</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>dev admin_dept W2GhNk6h adminDept</data>
+   <data>dev admin_prodi dl1551Vc6B adminProdi</data>
+   <data>dev dosen_1 q7sV8YJq dosen</data>
+   <data>dev dosen_2 P4Qu9qW5 dosen</data>
+   <data>dev dosen_3 fuz6RtZG dosen</data>
+   <data>dev 05111940000109 Ellenfemi2 S1</data>
+   <data>dev 202202020031 g3yMyGCb S1</data>
+   <data>dev 202202020032 k8AAcpkj S1</data>
+   <data>dev 202202020033 bThr46eE S1</data>
+   <data>dev 202202020034 IxnW06eNG1 S2</data>
+   <data>dev 202202020035 kiV19NDoHq S3</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>env</name>
+      <size>11</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>username</name>
+      <size>11</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>password</name>
+      <size>11</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>role</name>
+      <size>11</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
