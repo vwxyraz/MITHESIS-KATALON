@@ -43,7 +43,7 @@
       <guid>1c95355f-a51b-4dbb-97c9-b9f67a8cbbc7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Dosen/sidang/terimaAjuanSidang</testCaseId>
+      <testCaseId>Test Cases/Dosen/sidang/terimaAjuanSidangS1</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>e2a12bd5-c7c4-4399-b64b-a0dda3e1b691</id>
@@ -58,13 +58,13 @@
          <testDataLinkId>e2a12bd5-c7c4-4399-b64b-a0dda3e1b691</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>username</value>
-         <variableId>97f62af5-abb0-47c0-9b5e-44079a1b8d74</variableId>
+         <variableId>c866c539-9cc6-45b5-b9d2-bf07ec6427eb</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId>e2a12bd5-c7c4-4399-b64b-a0dda3e1b691</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>password</value>
-         <variableId>bfa4ba97-7c70-4db4-b7a4-509dcbb85b30</variableId>
+         <variableId>30e7a443-58d9-487d-b0e7-41c358658262</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>

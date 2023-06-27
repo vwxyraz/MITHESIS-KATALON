@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//aside[@id='aside-menu']/ul/li[5]/a</value>
+         <value>//aside[@id='aside-menu']//a/*[contains(text(),'Repositori Dokumen')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e882966c-fb91-4250-a5a2-6ebe996aa7a4</webElementGuid>
+      <webElementGuid>80b4efd9-26b2-40a0-a583-6b65bcc60c20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://dev-thesis.its.ac.id/berkas/dokumen-final</value>
-      <webElementGuid>ec65498e-4832-4301-aebb-b9bfc26b908c</webElementGuid>
+      <webElementGuid>6b753deb-8e00-4e69-ab15-46ee222afb11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link-its d-flex justify-content-start align-items-center </value>
-      <webElementGuid>6d3ec616-1b44-42ef-acbe-52aa86eb53ab</webElementGuid>
+      <webElementGuid>37231936-0c6f-4d94-9eb0-6637cdae39c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Repositori Dokumen</value>
-      <webElementGuid>6a1c8a99-2e4e-4911-9f44-9fe60835de20</webElementGuid>
+      <webElementGuid>b92dc15f-4b61-4975-973f-8680a6063fc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;aside-menu&quot;)/ul[@class=&quot;sidebar-nav ht-100p pd-y-10 scrollbar-its&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link-its d-flex justify-content-start align-items-center&quot;]</value>
-      <webElementGuid>4fe61a55-d051-4042-b768-1e2a9a7a37b1</webElementGuid>
+      <webElementGuid>b214bbcd-4975-4b8b-8e5b-6512546f7f27</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//aside[@id='aside-menu']/ul/li[5]/a</value>
-      <webElementGuid>cd9fffbb-6445-4716-beec-b91565f40ed8</webElementGuid>
+      <webElementGuid>5803cfd1-dd5b-44f0-a686-a180d19b6280</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sidang'])[2]/following::a[1]</value>
-      <webElementGuid>06256fab-d19f-4db3-b4ea-5408c995d6f8</webElementGuid>
+      <webElementGuid>7d86bc3e-290b-4fb6-a82c-5e7a7f6a8275</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bimbingan Aktif'])[2]/following::a[2]</value>
-      <webElementGuid>acd67f9a-f7e2-49fd-a46e-31c8686f3ab1</webElementGuid>
+      <webElementGuid>06d6206c-0d69-4a57-95fb-6dc7fadfcfc8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jadwal Sidang'])[2]/preceding::a[1]</value>
-      <webElementGuid>2b5c2495-35e3-4c1a-828c-121468257452</webElementGuid>
+      <webElementGuid>a9770ef5-546f-4b4d-a168-cf454da3a679</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://dev-thesis.its.ac.id/berkas/dokumen-final')])[2]</value>
-      <webElementGuid>10801b66-bd38-4798-84ec-bad41e142d40</webElementGuid>
+      <webElementGuid>06b21d3e-46ce-48ee-b4ff-3f937cd17057</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//aside/ul/li[5]/a</value>
-      <webElementGuid>74fe77c7-5704-4122-8890-b42632d24460</webElementGuid>
+      <webElementGuid>0341016b-17ae-495a-a226-7ba98ee1d25d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://dev-thesis.its.ac.id/berkas/dokumen-final' and (text() = 'Repositori Dokumen' or . = 'Repositori Dokumen')]</value>
-      <webElementGuid>69fcf605-82f7-4b81-ba30-7a914cca3dc7</webElementGuid>
+      <webElementGuid>92ea48b4-7f04-4cb1-a513-c58e470fd373</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

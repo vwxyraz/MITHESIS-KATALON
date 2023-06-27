@@ -14,7 +14,7 @@
    <testCaseLink>
       <guid>57a87ad3-1019-41fe-b25c-d4e3ff9adc83</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Login/LoginAuth</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -48,14 +48,14 @@
    <testCaseLink>
       <guid>19002c2f-5bdd-449a-a35c-d5ad8baba793</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Mahasiswa/pengumuman/pengumuman</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>d2c4e614-0335-4dc7-8209-68c2555472db</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Mahasiswa/PenawaranTopik/penawaranTopikPage</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
@@ -69,7 +69,7 @@
          <id>1a226a80-5e12-4e6e-b772-cbed33273c7f</id>
          <iterationEntity>
             <iterationType>SPECIFIC</iterationType>
-            <value>10</value>
+            <value>11</value>
          </iterationEntity>
          <testDataId>Data Files/testData</testDataId>
       </testDataLink>

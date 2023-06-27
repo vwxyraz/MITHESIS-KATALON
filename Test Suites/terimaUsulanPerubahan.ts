@@ -15,13 +15,13 @@
       <guid>8024a126-8f3c-445f-974c-dcc81ad5bbf7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Mahasiswa/TugasAkhir/tugasAkhirUsulkanPerubahan</testCaseId>
+      <testCaseId>Test Cases/Mahasiswa/TugasAkhir/tugasAkhirUsulkanPerubahanMhs</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>091f0768-095e-45ac-a13c-0ffb1c1146ff</id>
          <iterationEntity>
             <iterationType>SPECIFIC</iterationType>
-            <value>7</value>
+            <value>6</value>
          </iterationEntity>
          <testDataId>Data Files/testData</testDataId>
       </testDataLink>

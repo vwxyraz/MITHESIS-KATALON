@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>sidangMahasiswa</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>739199ea-e4c7-48c5-8de7-dc92a8ebc49d</testSuiteGuid>
+   <testCaseLink>
+      <guid>a5135cd5-8e02-4884-92d9-04c16addae6e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Mahasiswa/sidang/daftarSidang</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>458ca46b-49ed-499b-9eb3-39dbc63e2f7b</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>10</value>
+         </iterationEntity>
+         <testDataId>Data Files/testData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>458ca46b-49ed-499b-9eb3-39dbc63e2f7b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>9f432b37-7589-468f-976b-b5dd691d4611</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>458ca46b-49ed-499b-9eb3-39dbc63e2f7b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>3f269ec0-99fc-473e-a25a-bbb3c9f736df</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ca9556c0-f74d-4a04-a9cf-47d0102b8f6b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Dosen/sidang/terimaAjuanSidangS2</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>09189118-e339-43d1-94b9-56c9d0acb82a</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>4-5</value>
+         </iterationEntity>
+         <testDataId>Data Files/testData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>09189118-e339-43d1-94b9-56c9d0acb82a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>97f62af5-abb0-47c0-9b5e-44079a1b8d74</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>09189118-e339-43d1-94b9-56c9d0acb82a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>bfa4ba97-7c70-4db4-b7a4-509dcbb85b30</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>62e3755f-c4ae-4eb3-86bf-16c3b6f6aefc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AdminProdi/S2/Administrasi/PeriodeSidang/setujuAjuanSidang</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b2a0c93e-23cf-4adf-a2cf-49877ea1eb0b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Dosen/sidang/kehadiranSidang</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6e42d757-0b10-4b95-9dd2-f9c1ecd56bda</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>cf20138d-cc08-4a91-b323-686b66fe2248</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>93d47fc5-73b8-427c-a545-501d0d8af1ee</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Dosen/sidang/statusKelulusanSidang</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3615c5a7-4889-4428-9ccc-0388a431ba3b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3ff026ca-a5e5-4e3a-807d-553187811f79</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0f5bf507-8d51-45d8-b2e9-30d13c460d48</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AdminProdi/S2/Administrasi/PeriodeSidang/batalAjuanSidang</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

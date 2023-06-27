@@ -26,12 +26,14 @@ WebUI.waitForElementVisible(findTestObject('Object Repository/Page_PeriodeSidang
 WebUI.click(findTestObject('Object Repository/Page_PeriodeSidang/publishButton'))
 WebUI.verifyTextPresent('Periode sidang berhasil dipublikasikan!', false)
 
-
+buttonMore = findTestObject('Object Repository/Page_PeriodeSidang/buttonMore')
+WebUI.waitForElementVisible(buttonMore, 0)
+WebUI.click(buttonMore)
 unpublish = findTestObject('Object Repository/Page_PeriodeSidang/batalPublishButton')
 WebUI.waitForElementVisible(unpublish, 0)
 WebUI.click(unpublish)
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/Page_PeriodeSidang/modalBatalSidang'), 0)
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_PeriodeSidang/modalBatalUmumkan'), 0)
 WebUI.waitForElementVisible(findTestObject('Object Repository/Page_PeriodeSidang/konfirmasiBatalSidangButton'), 0)
 WebUI.click(findTestObject('Object Repository/Page_PeriodeSidang/konfirmasiBatalSidangButton'))
 WebUI.verifyTextPresent('Periode sidang berhasil simpan sebagai draft!', false)

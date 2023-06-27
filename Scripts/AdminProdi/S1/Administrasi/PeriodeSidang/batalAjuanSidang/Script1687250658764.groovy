@@ -24,7 +24,7 @@ WebUI.navigateToUrl('https://dev-thesis.its.ac.id/admin/periode-sidang/detail/FB
 searchMahasiswa = findTestObject('Object Repository/Page_PeriodeSidang/searchSidangMahasiswa')
 WebUI.waitForElementVisible(searchMahasiswa, 0)
 WebUI.click(searchMahasiswa)
-WebUI.setText(searchMahasiswa, 'Vyra')
+WebUI.setText(searchMahasiswa, 'Mahasiswa 1')
 
 sidangMahasiswa = findTestObject('Object Repository/Page_PeriodeSidang/sidangMahasiswa')
 WebUI.waitForElementVisible(sidangMahasiswa, 0)

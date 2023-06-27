@@ -6,12 +6,11 @@
    <elementGuidId>6d3066d8-7771-46c2-aacd-458ebafb7376</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//aside[@id='aside-menu']//a/*[contains(text(),'Alokasi Pembimbing')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;aside-menu&quot;]/ul/li[3]/a</value>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

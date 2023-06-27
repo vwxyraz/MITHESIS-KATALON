@@ -4,30 +4,30 @@
    <name>tugasAkhirUsulkanPerubahan</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>c1d90824-76c5-4e0f-a822-cec7c51d0d5b</testCaseGuid>
+   <testCaseGuid>4a771c65-9583-435b-ac31-654521df9e56</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>aeae370c-e478-4851-b924-62cf6daea78a</variableId>
+      <variableId>7df76b41-8a01-4d80-b69e-70b2bb4b16e9</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>04060744-5efc-4c86-a852-8192377ddde6</variableId>
+      <variableId>41581822-d2d5-46ac-b2a4-6d0d579de3af</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>aeae370c-e478-4851-b924-62cf6daea78a</id>
+      <id>7df76b41-8a01-4d80-b69e-70b2bb4b16e9</id>
       <masked>false</masked>
       <name>username</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>04060744-5efc-4c86-a852-8192377ddde6</id>
+      <id>41581822-d2d5-46ac-b2a4-6d0d579de3af</id>
       <masked>false</masked>
       <name>password</name>
    </variable>

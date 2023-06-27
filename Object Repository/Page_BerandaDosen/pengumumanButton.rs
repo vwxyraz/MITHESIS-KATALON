@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;aside-menu&quot;]/ul/li[7]/a</value>
+         <value>//aside[@id='aside-menu']//a/*[contains(text(),'Pengumuman')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>a9382437-0735-4749-b602-187946e4b914</webElementGuid>
+      <webElementGuid>4dcbaa7d-9192-4b18-ad98-189e616de70e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://dev-thesis.its.ac.id/pengumuman</value>
-      <webElementGuid>6fd82cbe-81e8-4402-805b-6db4889c8beb</webElementGuid>
+      <webElementGuid>055006d0-84a5-499a-a9df-b452bee156eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link-its d-flex justify-content-start align-items-center </value>
-      <webElementGuid>22ab80bb-94e5-4f89-9e5f-a9f4f6f110f9</webElementGuid>
+      <webElementGuid>44820eba-30ad-4181-a7bc-ae08a78aa6b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
             Pengumuman
         
     </value>
-      <webElementGuid>9fe6ce6c-bcfb-44d4-a097-9dec41529df1</webElementGuid>
+      <webElementGuid>d9253355-f0fe-440b-994e-e23a806ea272</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;aside-menu&quot;)/ul[@class=&quot;sidebar-nav ht-100p pd-y-10 scrollbar-its&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link-its d-flex justify-content-start align-items-center&quot;]</value>
-      <webElementGuid>3513a6d3-3b6f-4058-baef-1b516c9de50d</webElementGuid>
+      <webElementGuid>863188ef-b48c-4329-8202-a78619bcb1f2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//aside[@id='aside-menu']/ul/li[7]/a</value>
-      <webElementGuid>f78055ef-99e1-4d84-bbfb-0dfa42be2b71</webElementGuid>
+      <webElementGuid>d75c5d6f-4dec-4a43-8e50-4ba60c5d7e69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jadwal Sidang'])[2]/following::a[1]</value>
-      <webElementGuid>e6c2decb-4849-474f-a819-42870cb4a32b</webElementGuid>
+      <webElementGuid>019d62f4-02a4-410c-80fe-705b8fd2ef8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Repositori Dokumen'])[2]/following::a[2]</value>
-      <webElementGuid>490084f4-eb16-4571-8cfb-ad04f6648426</webElementGuid>
+      <webElementGuid>826841d8-4356-4bf3-b36a-14798febc030</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengumuman Terbaru'])[1]/preceding::a[1]</value>
-      <webElementGuid>70c3ed2f-657f-410d-8871-244a1d7fa437</webElementGuid>
+      <webElementGuid>fa86c760-eef2-409f-81b2-abb32900e952</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://dev-thesis.its.ac.id/pengumuman')])[2]</value>
-      <webElementGuid>ab190f76-4601-4588-b60d-650406845e4a</webElementGuid>
+      <webElementGuid>da03efe6-18df-4454-a733-800424a9199a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//aside/ul/li[7]/a</value>
-      <webElementGuid>e0ef2329-e7d6-4700-8b89-d538f212411a</webElementGuid>
+      <webElementGuid>9eae366a-c7f1-4004-b668-8df5232b77f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -124,6 +124,6 @@
             Pengumuman
         
     ')]</value>
-      <webElementGuid>0e521c69-4548-4929-93e1-84e5467ad350</webElementGuid>
+      <webElementGuid>e4949914-2c4b-4d82-bc84-20260cedfcc9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

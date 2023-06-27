@@ -30,7 +30,7 @@ WebUI.click(findTestObject('Object Repository/Page_PeriodeSidang/sidang', ['sida
 //edit
 //prasyarat sidang
 editSyarat = findTestObject('Object Repository/Page_PeriodeSidang/editSyarat')
-tambahSyaratButton = findTestObject('Object Repository/Page_PeriodeSidang/tambahSyaratButton')
+tambahSyaratButton = findTestObject('Object Repository/Page_PeriodeSidang/addSyaratButton')
 modalSyarat = findTestObject('Object Repository/Page_PeriodeSidang/modalSyarat')
 syarat = findTestObject('Object Repository/Page_PeriodeSidang/prasyarat')
 inputSyarat = findTestObject('Object Repository/Page_PeriodeSidang/selectSyarat')

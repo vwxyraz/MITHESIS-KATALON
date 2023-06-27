@@ -6,12 +6,11 @@
    <elementGuidId>54ee2d63-6a26-471f-8fc4-5c7b005fc1d4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;usulan-tesis&quot;]/div[9]/span/span[1]/span</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;usulan-tesis&quot;]/div[9]/span/span[1]/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

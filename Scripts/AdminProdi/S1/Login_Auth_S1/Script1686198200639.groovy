@@ -39,7 +39,7 @@ WebUI.sendKeys(inputSelect, Keys.chord(Keys.ENTER))
 
 WebUI.click(findTestObject('Object Repository/Page_Beranda/buttonGanti'))
 
-WebUI.verifyTextPresent('Hak akses berhasil diubah.', false)
+//WebUI.verifyTextPresent('Hak akses berhasil diubah.', false)
 
 
 

@@ -20,7 +20,7 @@ import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 
 //WebUI.callTestCase(findTestCase("Test Cases/Mahasiswa/Login_Auth0"), null)
 
-buttonPengumuman = findTestObject('Object Repository/Page_Beranda  myITS Thesis/pengumumanButton')
+buttonPengumuman = findTestObject('Object Repository/Page_Beranda/pengumumanButton')
 
 buttonSearch = findTestObject('Object Repository/Page_Pengumuman  myITS Thesis/searchPengumuman')
 cardPengumuman = findTestObject('Object Repository/Page_Pengumuman  myITS Thesis/pengumumanCard')

@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Test Cases/Login/LoginAuth'), ['username': username, 'password': password])
 
-WebUI.click(findTestObject('Object Repository/Page_Beranda  myITS Thesis/repositoriDokFinalButton'))
+WebUI.click(findTestObject('Object Repository/Page_Beranda/repositoriDokFinalButton'))
 
 buttonUpload = findTestObject('Object Repository/Page_Repositori Dok Mahasiswa/buttonUnggahBerkas')
 WebUI.waitForElementVisible(buttonUpload, 0)
@@ -30,7 +30,7 @@ inputNamaDok = findTestObject('Object Repository/Page_Repositori Dok Mahasiswa/i
 inputBerkas = findTestObject('Object Repository/Page_Repositori Dok Mahasiswa/inputBerkas')
 inputKeterangan = findTestObject('Object Repository/Page_Repositori Dok Mahasiswa/inputKeterangan')
 WebUI.waitForElementVisible(jenisDokumen, 0)
-WebUI.selectOptionByValue(jenisDokumen, '1', false)
+WebUI.selectOptionByValue(jenisDokumen, '11', false)
 
 WebUI.click(inputNamaDok)
 WebUI.setText(inputNamaDok, 'Dokumen akhir')

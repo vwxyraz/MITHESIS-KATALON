@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//aside[@id='aside-menu']/ul/li[6]/a</value>
+         <value>//aside[@id='aside-menu']//a/*[contains(text(),'Jadwal Sidang')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>003252b8-a91f-49b8-b5c2-4c4db97a4dfe</webElementGuid>
+      <webElementGuid>39eeed77-8efa-46cb-b258-fb13399c17e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://dev-thesis.its.ac.id/sidang/jadwal</value>
-      <webElementGuid>3c8fd4cf-b2e6-4319-be60-577bc9e4744b</webElementGuid>
+      <webElementGuid>c76be7b5-91a1-4299-8201-729b05259f70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link-its d-flex justify-content-start align-items-center </value>
-      <webElementGuid>69165c96-65be-47e5-97b0-2f5fa9a87c9b</webElementGuid>
+      <webElementGuid>3ad0eac2-6c8a-418e-948b-400f87c8ebf9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Jadwal Sidang</value>
-      <webElementGuid>c28a953b-f17b-44e1-96dd-697764aca38f</webElementGuid>
+      <webElementGuid>6da5ca60-0b94-44c0-bc31-9215a79225ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;aside-menu&quot;)/ul[@class=&quot;sidebar-nav ht-100p pd-y-10 scrollbar-its&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link-its d-flex justify-content-start align-items-center&quot;]</value>
-      <webElementGuid>a0a87ab8-f7ab-4498-9c27-f207846361cf</webElementGuid>
+      <webElementGuid>1dfdd689-acea-4967-b9a6-b67b3f4e4b0c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//aside[@id='aside-menu']/ul/li[6]/a</value>
-      <webElementGuid>c5f654c8-9ebd-4537-9403-1125e5e5dc0a</webElementGuid>
+      <webElementGuid>cb6cfc15-3f96-4acc-b40f-b7b3c070df8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Repositori Dokumen'])[2]/following::a[1]</value>
-      <webElementGuid>951e826a-9d84-4b02-a50a-230f956451e9</webElementGuid>
+      <webElementGuid>75212afb-cd65-4cbd-9e02-28460cf2e245</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sidang'])[2]/following::a[2]</value>
-      <webElementGuid>05dd36fd-465f-48d9-8722-4b817f8a56c6</webElementGuid>
+      <webElementGuid>c195c8d5-834d-4c5b-919f-6ac95c6fbedb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengumuman'])[2]/preceding::a[1]</value>
-      <webElementGuid>6daf346a-c994-4e76-ab0b-ae9752614459</webElementGuid>
+      <webElementGuid>c2b88eb8-b3e5-41aa-a3ee-34f636a853e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://dev-thesis.its.ac.id/sidang/jadwal')])[2]</value>
-      <webElementGuid>b5b347a6-1753-4a96-87f1-6bfacfc0070e</webElementGuid>
+      <webElementGuid>a960dba6-16af-4bed-86c4-de4ad7340bc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//aside/ul/li[6]/a</value>
-      <webElementGuid>8cbee546-d3bd-4d6b-84cf-f9aad4f05e9f</webElementGuid>
+      <webElementGuid>f81ba438-e4c8-4bcb-ad14-d6b872ecef28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://dev-thesis.its.ac.id/sidang/jadwal' and (text() = 'Jadwal Sidang' or . = 'Jadwal Sidang')]</value>
-      <webElementGuid>9307cf36-ed97-43f1-b041-ee331968631e</webElementGuid>
+      <webElementGuid>ea1134e6-00cb-49e2-89f4-52545cc3b4ab</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

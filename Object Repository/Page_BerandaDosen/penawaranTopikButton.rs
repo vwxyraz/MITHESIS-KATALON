@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//aside[@id='aside-menu']/ul/li[2]/a</value>
+         <value>//aside[@id='aside-menu']//a/*[text()='Penawaran Topik']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2f2613a7-314d-49fa-8d15-64a625cbfab3</webElementGuid>
+      <webElementGuid>f1e0e30f-446f-4f7d-a9ae-9b097afd9119</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://dev-thesis.its.ac.id/topik</value>
-      <webElementGuid>64c16ec1-47e3-4eaa-ac58-527db3dd5882</webElementGuid>
+      <webElementGuid>54f82b60-697a-436a-8ccb-c9d426a2fb03</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link-its d-flex justify-content-start align-items-center </value>
-      <webElementGuid>71bc164c-45e5-4d99-8b5b-2fe450e260be</webElementGuid>
+      <webElementGuid>6e3b9ba5-b01a-45b0-8e32-7851e76a704f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Penawaran Topik</value>
-      <webElementGuid>3ab8c7b6-f7b6-4183-be7c-c4121a2a66f7</webElementGuid>
+      <webElementGuid>c7ecb358-bd4b-4cf2-a891-b5c5e06d459a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;aside-menu&quot;)/ul[@class=&quot;sidebar-nav ht-100p pd-y-10 scrollbar-its&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link-its d-flex justify-content-start align-items-center&quot;]</value>
-      <webElementGuid>abdc025c-eea2-4197-9327-81359f9f5649</webElementGuid>
+      <webElementGuid>77e54fa9-dfa4-43f1-810b-c078b5aacedb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//aside[@id='aside-menu']/ul/li[2]/a</value>
-      <webElementGuid>bdb76ffc-f8db-40a7-ab40-e41d1c18fe05</webElementGuid>
+      <webElementGuid>dbacc005-26dc-4627-b5fe-0b0e1c64efe3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[2]/following::a[1]</value>
-      <webElementGuid>1cb17f85-3f9a-4183-a41c-a6aeb3f2aaf9</webElementGuid>
+      <webElementGuid>a9d58621-ddba-42aa-ab9d-1ed4f8e5bf63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengumuman'])[1]/following::a[2]</value>
-      <webElementGuid>1433ee2e-b88d-44cb-aa41-8a46932305a2</webElementGuid>
+      <webElementGuid>95f9671d-37ff-4f32-a4b8-34bd07993f1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bimbingan Aktif'])[2]/preceding::a[1]</value>
-      <webElementGuid>8284cd4d-8311-4933-a4d6-ccf4d3cc0612</webElementGuid>
+      <webElementGuid>8bf26ce6-9ea8-40cc-9c1b-51bfe39af601</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://dev-thesis.its.ac.id/topik')])[2]</value>
-      <webElementGuid>21cae06b-9d09-48a9-a657-bdea3ec77f26</webElementGuid>
+      <webElementGuid>bfeffcfd-4207-4618-aae1-54888fd7ea25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//aside/ul/li[2]/a</value>
-      <webElementGuid>06f4ee79-4cb4-4d11-984e-586bb7139b4d</webElementGuid>
+      <webElementGuid>2ed63a93-fdb1-4a20-8926-a9e4afd1faef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://dev-thesis.its.ac.id/topik' and (text() = 'Penawaran Topik' or . = 'Penawaran Topik')]</value>
-      <webElementGuid>171e2117-5ec7-4818-8090-585eda5bcfc7</webElementGuid>
+      <webElementGuid>12201f28-4a53-418f-a8d5-0a7a4c24d1dd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -20,7 +20,7 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase("Test Cases/Login/LoginAuth"), ['username': username, 'password': password])
 
 //sidang Page
-sidangButton = findTestObject('Object Repository/Page_Beranda  myITS Thesis/sidangButton')
+sidangButton = findTestObject('Object Repository/Page_Beranda/sidangButton')
 WebUI.waitForElementVisible(sidangButton, 0)
 WebUI.click(sidangButton)
 

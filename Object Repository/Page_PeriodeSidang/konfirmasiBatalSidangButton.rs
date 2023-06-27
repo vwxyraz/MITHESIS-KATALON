@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[text()='Batalkan Publikasi']</value>
+         <value>//*[@id=&quot;form-batal&quot;]//button[text()='Batalkan Publikasi']</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

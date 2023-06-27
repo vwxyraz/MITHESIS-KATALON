@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//aside[@id='aside-menu']/ul/li[6]/a</value>
+         <value>//aside[@id='aside-menu']//a/*[contains(text(),'Rekapitulasi Nilai')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>aa601fef-d9e0-4cef-bb36-e5b62aeec994</webElementGuid>
+      <webElementGuid>ce022146-4b53-40c1-827b-529ecbf31607</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://dev-thesis.its.ac.id/sidang/rekapitulasi-nilai</value>
-      <webElementGuid>aab57629-c312-4ff9-95ca-c77b021519ac</webElementGuid>
+      <webElementGuid>8a89b6e1-18e3-47d5-949b-4c60f18fedf8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link-its d-flex justify-content-start align-items-center </value>
-      <webElementGuid>e96573ef-5d32-433a-97d4-a7e10ac557aa</webElementGuid>
+      <webElementGuid>f8545357-f6db-481b-aeac-6ea2b1e4eb27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Rekapitulasi Nilai</value>
-      <webElementGuid>a2d270ab-521a-473a-876f-691de8dbceff</webElementGuid>
+      <webElementGuid>b43623c2-b74d-434f-b1c9-f7d0279dc7b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;aside-menu&quot;)/ul[@class=&quot;sidebar-nav ht-100p pd-y-10 scrollbar-its&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link-its d-flex justify-content-start align-items-center&quot;]</value>
-      <webElementGuid>09653362-89f9-4b5d-b227-f21108215412</webElementGuid>
+      <webElementGuid>ff9816b9-15ca-4d82-a75a-ab2ca81eeec1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//aside[@id='aside-menu']/ul/li[6]/a</value>
-      <webElementGuid>b63f122b-0e69-4815-be8b-92ead21cdd38</webElementGuid>
+      <webElementGuid>e0c7266f-41f9-4730-bac9-d5db5082aad2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tugas Akhir Mahasiswa'])[2]/following::a[1]</value>
-      <webElementGuid>2b0b669a-4be1-4c40-af17-5cf57b4f164a</webElementGuid>
+      <webElementGuid>9966e800-397c-4d77-8d21-281379c71f9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembimbingan Dosen'])[2]/following::a[2]</value>
-      <webElementGuid>17400813-af91-41d3-8563-2a738261ac5a</webElementGuid>
+      <webElementGuid>b3a3b505-93c9-4fc2-b0b1-4bef6dabb73f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jadwal Sidang'])[2]/preceding::a[1]</value>
-      <webElementGuid>d22c6e3f-844f-4063-9dcd-27833b62d686</webElementGuid>
+      <webElementGuid>5f5cab8b-4879-4cd8-87b7-8bbcb73b9032</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://dev-thesis.its.ac.id/sidang/rekapitulasi-nilai')])[2]</value>
-      <webElementGuid>cb387086-badb-4378-9593-8626f61cf517</webElementGuid>
+      <webElementGuid>50a555f3-1670-40f9-8e95-7bd92da26b93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//aside/ul/li[6]/a</value>
-      <webElementGuid>c729f180-f0d2-43ce-944d-1798263e2381</webElementGuid>
+      <webElementGuid>4fa8b0bc-e890-4677-819f-141fc242da42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://dev-thesis.its.ac.id/sidang/rekapitulasi-nilai' and (text() = 'Rekapitulasi Nilai' or . = 'Rekapitulasi Nilai')]</value>
-      <webElementGuid>a3b8309f-4394-4715-ae69-a0e310f8d858</webElementGuid>
+      <webElementGuid>3813c5bc-fd53-49d0-8126-af9a861de7f6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

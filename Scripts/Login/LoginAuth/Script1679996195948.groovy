@@ -43,10 +43,10 @@ WebUI.waitForElementClickable(buttonSignIn, 0)
 WebUI.click(buttonSignIn)
 
 sleep(5)
-if (!WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Beranda  myITS Thesis/p_SelamatDatang'), 0)) {
+if (!WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Beranda/p_SelamatDatang'), 0)) {
 	WebUI.navigateToUrl("https://dev-thesis.its.ac.id/")
-	WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Beranda  myITS Thesis/p_SelamatDatang'))
+	WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Beranda/p_SelamatDatang'), 0)
 }
 //else {
-//	WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Beranda  myITS Thesis/p_SelamatDatang'), 0)
+//	WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Beranda/p_SelamatDatang'), 0)
 //}

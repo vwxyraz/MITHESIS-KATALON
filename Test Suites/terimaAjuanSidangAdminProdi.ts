@@ -21,7 +21,7 @@
          <id>e8ffdec4-1b44-4a72-b14c-a93e1181e2ff</id>
          <iterationEntity>
             <iterationType>SPECIFIC</iterationType>
-            <value>6</value>
+            <value>7</value>
          </iterationEntity>
          <testDataId>Data Files/testData</testDataId>
       </testDataLink>
@@ -43,7 +43,7 @@
       <guid>054431a3-6820-4352-aee5-5943643b15de</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Dosen/sidang/terimaAjuanSidang</testCaseId>
+      <testCaseId>Test Cases/Dosen/sidang/terimaAjuanSidangS1</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>013ab85c-ed74-4b43-ab47-fc658dca7376</id>
@@ -58,13 +58,13 @@
          <testDataLinkId>013ab85c-ed74-4b43-ab47-fc658dca7376</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>username</value>
-         <variableId>97f62af5-abb0-47c0-9b5e-44079a1b8d74</variableId>
+         <variableId>c866c539-9cc6-45b5-b9d2-bf07ec6427eb</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId>013ab85c-ed74-4b43-ab47-fc658dca7376</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>password</value>
-         <variableId>bfa4ba97-7c70-4db4-b7a4-509dcbb85b30</variableId>
+         <variableId>30e7a443-58d9-487d-b0e7-41c358658262</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>

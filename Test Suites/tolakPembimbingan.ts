@@ -14,7 +14,7 @@
    <testCaseLink>
       <guid>33c53424-17e6-4d0e-a3ba-2a23cf1d69c0</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Mahasiswa/TugasAkhir/tugasAkhirBuatUsulan</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -70,7 +70,7 @@
    <testCaseLink>
       <guid>99239542-076a-424c-9d56-531d3745b9ee</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Mahasiswa/TugasAkhir/tugasAkhirBuatUsulanKelompok</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -98,7 +98,7 @@
    <testCaseLink>
       <guid>75364105-ea37-4b9a-98de-21cd83e50a67</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/AdminProdi/S1/AlokasiPembimbingan/alokasiPembimbingan</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>

@@ -20,7 +20,7 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase("Test Cases/Mahasiswa/Login_Auth0"), null)
 
 //Tugas Akhir Page
-tugasAkhirModule = findTestObject('Object Repository/Page_Beranda  myITS Thesis/a_Tugas Akhir')
+tugasAkhirModule = findTestObject('Object Repository/Page_Beranda/tugasAkhir')
 WebUI.waitForElementVisible(tugasAkhirModule, 0)
 WebUI.click(tugasAkhirModule)
 

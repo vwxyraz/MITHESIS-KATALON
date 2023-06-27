@@ -20,7 +20,7 @@ import org.apache.commons.lang.RandomStringUtils as RandStr
 
 WebUI.callTestCase(findTestCase('Test Cases/Mahasiswa/Login_Auth1'), null)
 
-WebUI.click(findTestObject('Object Repository/Page_Beranda  myITS Thesis/a_Tugas Akhir'))
+WebUI.click(findTestObject('Object Repository/Page_Beranda/tugasAkhir'))
 
 catatanPenelitian = findTestObject('Object Repository/Page_Tugas Akhir  myITS Thesis/catatanPenelitian')
 WebUI.waitForElementVisible(catatanPenelitian, 0)

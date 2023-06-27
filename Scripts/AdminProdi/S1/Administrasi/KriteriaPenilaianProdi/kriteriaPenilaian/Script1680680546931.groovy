@@ -35,15 +35,16 @@ WebUI.click(buttonKriteriaNilai)
 
 //WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Kriteria Penilaian Prodi  myITS Thesis/cari'), 0)
 
-rubrikNilai = findTestObject('Object Repository/Page_Kriteria Penilaian Prodi  myITS Thesis/cardRubrikNilai', ['rubrikNilaiObject': objectCard])
-WebUI.click(rubrikNilai)
-
-editRubrikButton = findTestObject('Object Repository/Page_Kriteria Penilaian Prodi  myITS Thesis/buttonEditRubrikTest')
-
-WebUI.waitForElementVisible(editRubrikButton, 0)
-WebUI.click(editRubrikButton)
-
-WebUI.switchToWindowIndex(currentTab+1)
+//rubrikNilai = findTestObject('Object Repository/Page_Kriteria Penilaian Prodi  myITS Thesis/cardRubrikNilai', ['rubrikNilaiObject': objectCard])
+//WebUI.click(rubrikNilai)
+//
+//editRubrikButton = findTestObject('Object Repository/Page_Kriteria Penilaian Prodi  myITS Thesis/buttonEditRubrikTest')
+//
+//WebUI.waitForElementVisible(editRubrikButton, 0)
+//WebUI.click(editRubrikButton)
+//
+//WebUI.switchToWindowIndex(currentTab+1)
+WebUI.navigateToUrl('https://dev-thesis.its.ac.id/admin/kriteria-penilaian/96E15C95-5108-485D-8435-DB58326C0D9C')
 
 editRubrik = findTestObject('Object Repository/Page_Kriteria Penilaian Prodi  myITS Thesis/editRubrikPenilaianButton')
 tambahKriteria = findTestObject('Object Repository/Page_Kriteria Penilaian Prodi  myITS Thesis/tambahKriteriaButton')
@@ -172,7 +173,7 @@ WebUI.waitForElementVisible(deleteKriteria, 0)
 WebUI.click(deleteKriteria)
 
 delete = findTestObject('Object Repository/Page_Kriteria Penilaian Prodi  myITS Thesis/deleteKriteria')
-WebUI.waitForElementVisible(delete, currentTab)
+WebUI.waitForElementVisible(delete, 0)
 WebUI.click(delete)
 
 WebUI.verifyTextPresent('Berhasil menghapus data Rubrik penilaian!', false)

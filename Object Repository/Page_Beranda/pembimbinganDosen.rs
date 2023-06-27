@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//aside[@id='aside-menu']/ul/li[4]/a</value>
+         <value>//aside[@id='aside-menu']//a/*[contains(text(),'Pembimbingan Dosen')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>40b0e639-40b1-49a2-aa1a-052cf13cf67d</webElementGuid>
+      <webElementGuid>2c29eee8-6827-47e3-85c5-cba53b043d53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://dev-thesis.its.ac.id/dosen-pembimbing</value>
-      <webElementGuid>0262b6c4-b8a1-44c3-a433-0594fe1f2cae</webElementGuid>
+      <webElementGuid>d2ce1e72-8610-4a3f-9fc2-0b8a777cb5df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link-its d-flex justify-content-start align-items-center </value>
-      <webElementGuid>618ae3af-03e9-4a85-80f9-ad44aae22689</webElementGuid>
+      <webElementGuid>717a06a3-1e7e-422a-a7df-04bfc8cfdc50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pembimbingan Dosen</value>
-      <webElementGuid>9ec73618-8cd5-4fd4-b4f4-7ddbc14a19ad</webElementGuid>
+      <webElementGuid>13d59594-2db8-44cb-b3ff-605ae8bb3e68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;aside-menu&quot;)/ul[@class=&quot;sidebar-nav ht-100p pd-y-10 scrollbar-its&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link-its d-flex justify-content-start align-items-center&quot;]</value>
-      <webElementGuid>18a79b45-9a58-41d4-a9be-f61feba05328</webElementGuid>
+      <webElementGuid>d155b2df-6100-474b-9eba-5e719da84b70</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//aside[@id='aside-menu']/ul/li[4]/a</value>
-      <webElementGuid>63e06551-70d7-4943-9c1e-82a5657ab3d4</webElementGuid>
+      <webElementGuid>88573fc4-6aa6-45c5-8cd9-47bd6fca6f2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrasi'])[2]/following::a[1]</value>
-      <webElementGuid>494ac0bf-537c-415b-96a0-55258cbafad9</webElementGuid>
+      <webElementGuid>7f8b27d7-e04d-407f-98b6-9f43ec1fed0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[2]/following::a[2]</value>
-      <webElementGuid>a16ef1d2-c911-4ce1-8d2b-96e698b98701</webElementGuid>
+      <webElementGuid>ad3476e1-9697-49fb-ba0d-697ceed6bd1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tugas Akhir Mahasiswa'])[2]/preceding::a[1]</value>
-      <webElementGuid>58f9b96f-b6d0-4ff3-a4e2-d4967ba64197</webElementGuid>
+      <webElementGuid>f256ce69-3b1c-48c0-9b09-c9fdd354f23e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://dev-thesis.its.ac.id/dosen-pembimbing')])[2]</value>
-      <webElementGuid>7c6bff7c-6833-4382-9ac4-e4f0cd9f242c</webElementGuid>
+      <webElementGuid>3251567b-769a-41cf-88fa-1dbc060c5431</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//aside/ul/li[4]/a</value>
-      <webElementGuid>dbfac8f7-8d4e-44a1-a7a8-15375ba7912d</webElementGuid>
+      <webElementGuid>47575ffb-699d-45fb-8bd4-83bbd7624426</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://dev-thesis.its.ac.id/dosen-pembimbing' and (text() = 'Pembimbingan Dosen' or . = 'Pembimbingan Dosen')]</value>
-      <webElementGuid>57c56dc3-bbed-4529-95eb-e99735cb5907</webElementGuid>
+      <webElementGuid>4c7f48d3-bef8-4388-a59f-2213f9040bdc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

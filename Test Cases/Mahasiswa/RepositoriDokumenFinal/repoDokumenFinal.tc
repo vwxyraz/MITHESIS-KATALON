@@ -18,14 +18,14 @@
       <variableId>e52e0e3b-b5c7-4d47-b32c-5cfddb0a7cab</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>findTestData('testData').getValue(2, 11)</defaultValue>
       <description></description>
       <id>e69dad59-9df3-4651-bb59-6c4f0c534c8b</id>
       <masked>false</masked>
       <name>username</name>
    </variable>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>findTestData('testData').getValue(3, 11)</defaultValue>
       <description></description>
       <id>e52e0e3b-b5c7-4d47-b32c-5cfddb0a7cab</id>
       <masked>false</masked>
